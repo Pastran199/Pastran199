@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao 👋 I'm Alessio Colaccini
 
 <!--
 **Pastran199/Pastran199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+I'm Alessio, a Full Stack Web Developer with a passion for crafting digital experiences 🤓.
+When I'm not immersed in code, you'll find me exploring virtual worlds in video games 🎮 or pushing my limits in the gym 💪.
+
+## 💻 Tech Stack
+- Frontend: [Your Frontend Tech]
+- Backend: [Your Backend Tech]
+- Database: [Your Database Tech]
+- ...
+
+Let's build something amazing together! Feel free to explore my repositories and join me on this coding adventure. 🚀
+
