@@ -12,6 +12,7 @@ Constantly evolving with the latest tech trends 📚.
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Next.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="VueJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VueJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Nuxt.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
